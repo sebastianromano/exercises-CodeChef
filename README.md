@@ -1,5 +1,5 @@
 # CodeChef
-### *Selection of CodeChef Problems (https://www.codechef.com/practice)*
+### *Selection of CodeChef Problems*
 
 Each folder contains my submitted solutions in Java to the various [CodeChef Problems](https://www.codechef.com/practice). 
 
